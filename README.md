@@ -38,7 +38,6 @@ Installation:
 In the server interface it will display:
 <p>
     new says: name: john
-
     New connection from: john.
 </p>
 Follow the commands and enjoy chatting with one another.
