@@ -2,11 +2,12 @@
 The Project is build on Python. It is a simple chat application using socket programming for multiple chat room
 The Project is build on python using socket programming.
 
+# Get Started
 Its a Multiple chat room app. User can create a new room, join an existing room, leave from the existing room, switch to other existing room, chat within the room and quit from the system. 
 
 Previous history of the chat room is stored in the server so whenever anyone wants to join a room he/she can see the previous history of the room.
 
-Installation:
+# Installation:
 
 1. Clone the project in your desired location.
 2. Open Terminal
